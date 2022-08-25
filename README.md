@@ -1,2 +1,2 @@
 # Git-Api
-An api to peform actions on all repo
+An api to peform git actions on all repo
